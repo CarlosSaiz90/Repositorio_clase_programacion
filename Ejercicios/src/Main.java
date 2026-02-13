@@ -45,6 +45,31 @@ public class Main {
         System.out.println("la inicial es "+inicial);
 
 
+        //EJERCICIO 4
+
+        String tituloLibro = "Don Quijote de la Mancha";
+        String autor = "Miguel de Cervantes";
+        int añoPublicacion = 1605;
+        int numeroPaginas = 863;
+        boolean disponibleBiblioteca = true;
+
+        System.out.println("Titulo " +tituloLibro);
+        System.out.println("Autor " +autor);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
