@@ -12,10 +12,14 @@ public class Main {
         //System.out.println("los caballos que tiene el ford son "+ford.getCv());
         //System.out.println("el modelo del ford es "+ford.getModelo());
         System.out.println(ford);
+        ford.getModelo();
+
 
         Coche mercedes = new Coche("Mercedes","Clase C",80000);
         System.out.println(mercedes);
         mercedes.mostrarDatos();
+        ford.mostrarDatos();
+        System.out.println(""+ford.getModelo());
 
 
 

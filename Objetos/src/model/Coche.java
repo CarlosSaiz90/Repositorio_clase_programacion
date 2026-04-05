@@ -53,7 +53,7 @@ public class Coche {
 
 
 public void mostrarDatos(){
-    System.out.println(""+marca);
+    System.out.println(""+marca+modelo+precio);
 
 
 
